@@ -1,0 +1,31 @@
+baseURL = "http://sundsvallsstigcyklister.se/"
+languageCode = "sv-SE"
+title = "Sundsvalls Stigcyklister"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "sv"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Sundsvalls Stigcyklister"
+  facebook = "https://www.facebook.com/groups/623066914391828/"
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
