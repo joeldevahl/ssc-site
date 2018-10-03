@@ -4,8 +4,22 @@ description: "Cykla i Sundsvall med omnejd"
 featured_image: ''
 ---
 
-Var kan man cykla?
+Karta över Sundsvall (tänk buss/tunnelbanekarta)
 
-{{< trail id="144454" >}} <!-- Full fräs! --> 
-{{< trail id="107035" >}} <!-- Full får frammåt --> 
+Områden:
+========
+  * Kliss
+  * Bydalen
+  * Södra/LV5
+  * Essvik
+  * Alnö?
+  * Njurunda?
+  * Timrå
 
+Exempel på vad vi kan visa per område:
+========
+{{< trail id="144454" >}}
+
+{{< route id="1597" >}}
+
+{{< area id="25266" >}}
