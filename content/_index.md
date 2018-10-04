@@ -1,6 +1,6 @@
 ---
 title: "Sundsvalls Stigcyklister"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/temppics/test4-930x602.jpg'
 description: "Stigbygge, Ändörå och blandat"
 ---
 
