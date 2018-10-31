@@ -30,3 +30,23 @@ enableRobotsTXT = true
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
   custom_css = ["css/theme.css"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "cykla"
+    name = "Cykla"
+    url = "/cykla/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "medlem"
+    name = "Bli Medlem"
+    url = "/medlem/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Om Oss"
+    url = "/about/"
+    weight = 3
