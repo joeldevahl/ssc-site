@@ -16,7 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "favicon.ico"
   description = "Sundsvalls Stigcyklister"
   facebook = "https://www.facebook.com/groups/623066914391828/"
   twitter = ""
