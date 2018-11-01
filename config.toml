@@ -1,7 +1,7 @@
 baseURL = "http://sundsvallsstigcyklister.se/"
 languageCode = "sv-SE"
 title = "Sundsvalls Stigcyklister"
-theme = "ananke"
+theme = "hugo-now-ui"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "sv"
@@ -16,37 +16,45 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "favicon.ico"
-  description = "Sundsvalls Stigcyklister"
-  facebook = "https://www.facebook.com/groups/623066914391828/"
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  background = "/img/bg11.jpg"
+  tint = "orange"
   custom_css = ["css/theme.css"]
+  custom_js = []
+  date_format = "Mon, Jan 2, 2006"
+  description = "Sundsvalls Stigcyklister"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion = "9.10.0"
+  highlightCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml"]
+  highlightjsTheme = "github"
 
 [menu]
 
   [[menu.main]]
     identifier = "cykla"
-    name = "Cykla"
+    name = "Cykla i Sundsvall"
+	url = "/cykla/"
+    weight = 1
+  [[menu.main]]
+    name = "Översikt"
     url = "/cykla/"
     weight = 1
-
+    parent = "cykla"
   [[menu.main]]
-    identifier = "medlem"
-    name = "Bli Medlem"
-    url = "/medlem/"
+    name = "Kliss"
+    url = "/cykla/kliss/"
     weight = 2
+    parent = "cykla"
 
   [[menu.main]]
     identifier = "about"
     name = "Om Oss"
     url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "medlem"
+    name = "Bli Medlem"
+    url = "/medlem/"
     weight = 3
