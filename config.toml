@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   background = "/img/bg11.jpg"
-  tint = "orange"
+  tint = "ssc"
   custom_css = ["css/theme.css"]
   custom_js = []
   date_format = "Mon, Jan 2, 2006"

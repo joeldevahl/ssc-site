@@ -299,6 +299,9 @@
 [data-background-color="black"]{
     background-color: $black-color;
 }
+[data-background-color="ssc"] {
+    background-color: $primary-color;
+}
 
 [data-background-color]{
     color: $white-color;
