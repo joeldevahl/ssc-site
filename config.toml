@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "/images/favicon.ico"
-  apple-icon = "/images/apple-icon.png"
+  appicon = "/images/apple-icon.png"
   background = "/img/bg11.jpg"
   tint = "ssc"
   custom_css = ["css/theme.css"]

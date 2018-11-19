@@ -3451,12 +3451,13 @@ Created using IcoMoon - icomoon.io
     padding-right: 0; }
 
 .footer {
-  padding: 24px 0; }
+  padding: 24px 0;
+  background-color: #AA8239; }
   .footer.footer-default {
     background-color: #f2f2f2; }
   .footer nav {
     display: inline-block;
-    float: left; }
+    /* float: left; */ }
   .footer ul {
     margin-bottom: 0;
     padding: 0;

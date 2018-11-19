@@ -1,5 +1,6 @@
 .footer{
     padding: 24px 0;
+    background-color: $warning-color;
 
     &.footer-default{
         background-color: #f2f2f2;
@@ -7,7 +8,7 @@
 
     nav{
         display: inline-block;
-        float: left;
+        /* float: left; */
     }
 
     ul{

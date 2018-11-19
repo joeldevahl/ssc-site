@@ -207,16 +207,14 @@ var big_image;
 // Javascript just for Demo purpose, remove it from your project
 nowuiKitDemo = {
     checkScrollForParallax: debounce(function() {
-        oVal = ($(window).scrollTop() / 3);
+        const oVal = ($(window).scrollTop() / 3);
         big_image.css({
-            'transform': 'translate3d(0,' + oVal + 'px,0)',
-            '-webkit-transform': 'translate3d(0,' + oVal + 'px,0)',
-            '-ms-transform': 'translate3d(0,' + oVal + 'px,0)',
-            '-o-transform': 'translate3d(0,' + oVal + 'px,0)'
+            'transform': `translate3d(0,${oVal}px,0)`,
+            '-webkit-transform': `translate3d(0,${oVal}px,0)`,
+            '-ms-transform': `translate3d(0,${oVal}px,0)`,
+            '-o-transform': `translate3d(0,${oVal}px,0)`
         });
-
     }, 6)
-
 }
 
 // Returns a function, that, as long as it continues to be invoked, will not
