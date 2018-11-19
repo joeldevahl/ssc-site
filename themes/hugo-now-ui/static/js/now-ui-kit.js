@@ -175,25 +175,29 @@ nowuiKit = {
         // Sliders for demo purpose in refine cards section
         var slider = document.getElementById('sliderRegular');
 
-        noUiSlider.create(slider, {
-            start: 40,
-            connect: [true, false],
-            range: {
-                min: 0,
-                max: 100
-            }
-        });
+        if (slider !== null) {
+            noUiSlider.create(slider, {
+                start: 40,
+                connect: [true, false],
+                range: {
+                    min: 0,
+                    max: 100
+                }
+            });
+        }
 
         var slider2 = document.getElementById('sliderDouble');
 
-        noUiSlider.create(slider2, {
-            start: [20, 60],
-            connect: true,
-            range: {
-                min: 0,
-                max: 100
-            }
-        });
+        if (slider2 !== null) {
+            noUiSlider.create(slider2, {
+                start: [20, 60],
+                connect: true,
+                range: {
+                    min: 0,
+                    max: 100
+                }
+            });
+        }
     }
 }
 
@@ -203,8 +207,6 @@ var big_image;
 // Javascript just for Demo purpose, remove it from your project
 nowuiKitDemo = {
     checkScrollForParallax: debounce(function() {
-        var current_scroll = $(this).scrollTop();
-
         oVal = ($(window).scrollTop() / 3);
         big_image.css({
             'transform': 'translate3d(0,' + oVal + 'px,0)',
