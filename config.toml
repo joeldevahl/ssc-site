@@ -16,6 +16,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  favicon = "/images/favicon.ico"
+  apple-icon = "/images/apple-icon.png"
   background = "/img/bg11.jpg"
   tint = "ssc"
   custom_css = ["css/theme.css"]
@@ -34,7 +36,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "cykla"
     name = "Cykla i Sundsvall"
-	url = "/cykla/"
+    url = "/cykla/"
     weight = 1
   [[menu.main]]
     name = "Översikt"
