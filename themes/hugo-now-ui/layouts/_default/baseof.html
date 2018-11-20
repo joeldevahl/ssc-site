@@ -1,4 +1,5 @@
 <!doctype html>
+{{ "<!-- layouts/_default/baseof.html -->" | safeHTML }}
 <html lang="en">
   {{partial "head" . }}
   
@@ -7,24 +8,25 @@
     
     <div class="{{ .Params.wrapper | default "wrapper" }}">
       
-        <div class="page-header {{ .Params.headerstyle | default "page-header-small"}}">
+        <div class="page-header {{ .Params.headerstyle | default "page-header-small" }}">
             <div class="page-header-image" data-parallax="true" style="background-image: url('{{ (.Param "background")  | default "img/header.jpg" | absURL }}');">
             </div>
-            
             {{ block "title" . }}
+              <div class="container">
+                <div class="content-center logo">
+                  <img src="/images/logo_v1_text_under_white.png"/>
+                </div>
+              </div>
             {{ end }}
-            
         </div>
-        <div class="{{ .Params.section | default "section"}}">
+        <div class="{{ .Params.section | default "section" }}">
             <div class="container">
-              
             {{ block "body" . }}
 	          {{ end }}
 
             </div>
         </div>
-      {{ partial "footer" . }}
     </div>
+    {{ partial "javascript" . }}
   </body>
-{{partial "javascript" . }}
 </html>
