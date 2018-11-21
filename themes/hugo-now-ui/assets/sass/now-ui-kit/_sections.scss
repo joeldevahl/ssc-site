@@ -1,3 +1,8 @@
+.trailforks-widget-wrapper {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .section{
     padding: 70px 0;
     position: relative;
@@ -70,6 +75,11 @@
     &.page-header-small{
         height: 60vh;
         max-height: 440px;
+    }
+
+    &.page-header-tiny{
+        height: 100vh;
+        max-height: 350px;
     }
 
     &:after,

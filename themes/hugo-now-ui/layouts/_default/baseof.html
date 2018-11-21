@@ -12,11 +12,13 @@
             <div class="page-header-image" data-parallax="true" style="background-image: url('{{ (.Param "background")  | default "img/header.jpg" | absURL }}');">
             </div>
             {{ block "title" . }}
-              <div class="container">
-                <div class="content-center logo">
-                  <img src="/images/logo_v1_text_under_white.png"/>
+              {{ if .IsHome }}
+                <div class="container">
+                  <div class="content-center logo">
+                    <img src="/images/logo_v1_text_under_white.png"/>
+                  </div>
                 </div>
-              </div>
+              {{ end }}
             {{ end }}
         </div>
         <div class="{{ .Params.section | default "section" }}">

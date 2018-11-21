@@ -40,16 +40,13 @@ $(document).ready(function () {
     // Activate the image for the navbar-collapse
     nowuiKit.initNavbarImage();
 
-    $navbar = $('.navbar[color-on-scroll]');
-    $banner = $('div.page-header-image');
-    scroll_distance = $navbar.attr('color-on-scroll') || $banner.outerHeight(true);
+    $navbar = $('.navbar');
+    $banner = $('.page-header-image');
+    scroll_distance = $banner.outerHeight(true) - $navbar.outerHeight(true);
 
     // Check if we have the class "navbar-color-on-scroll" then add the function to remove the class "navbar-transparent" so it will transform to a plain color.
-
-    if ($('.navbar[color-on-scroll]').length != 0) {
-        nowuiKit.checkScrollForTransparentNavbar();
-        $(window).on('scroll', nowuiKit.checkScrollForTransparentNavbar)
-    }
+    nowuiKit.checkScrollForTransparentNavbar();
+    $(window).on('scroll', nowuiKit.checkScrollForTransparentNavbar)
 
     $('.form-control').on("focus", function () {
         $(this).parent('.input-group').addClass("input-group-focus");
@@ -143,12 +140,12 @@ nowuiKit = {
         if ($(document).scrollTop() > scroll_distance) {
             if (transparent) {
                 transparent = false;
-                $('.navbar[color-on-scroll]').removeClass('navbar-transparent');
+                $('.navbar').removeClass('navbar-transparent');
             }
         } else {
             if (!transparent) {
                 transparent = true;
-                $('.navbar[color-on-scroll]').addClass('navbar-transparent');
+                $('.navbar').addClass('navbar-transparent');
             }
         }
     }, 17),
