@@ -3,6 +3,8 @@ title: "Södra Berget"
 headerstyle: "page-header-tiny"
 description: "Södra berget, LV5, Sidsjöhöjden, Fågelberget"
 background: '/temppics/1-4KlissStugan.jpg'
+layout: 'trailforks'
+type: 'region'
 regionid: 25316
 ---
 
