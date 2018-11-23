@@ -53,6 +53,11 @@ enableRobotsTXT = true
     url = "/cykla/sodraberget/"
     weight = 3
     parent = "cykla"
+  [[menu.main]]
+    name = "Bydalen"
+    url = "/cykla/bydalen/"
+    weight = 4
+    parent = "cykla"
 
   [[menu.main]]
     identifier = "about"
