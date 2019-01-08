@@ -35,29 +35,9 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "cykla"
-    name = "Cykla i Sundsvall"
+    name = "Cykla"
     url = "/cykla/"
     weight = 1
-  [[menu.main]]
-    name = "Översikt"
-    url = "/cykla/"
-    weight = 1
-    parent = "cykla"
-  [[menu.main]]
-    name = "Kliss"
-    url = "/cykla/kliss/"
-    weight = 2
-    parent = "cykla"
-  [[menu.main]]
-    name = "Södra Berget"
-    url = "/cykla/sodraberget/"
-    weight = 3
-    parent = "cykla"
-  [[menu.main]]
-    name = "Bydalen"
-    url = "/cykla/bydalen/"
-    weight = 4
-    parent = "cykla"
 
   [[menu.main]]
     identifier = "about"
@@ -67,6 +47,6 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "medlem"
-    name = "Bli Medlem"
+    name = "Medlemskap"
     url = "/medlem/"
     weight = 3
