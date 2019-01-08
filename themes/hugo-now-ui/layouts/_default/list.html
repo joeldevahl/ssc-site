@@ -30,9 +30,9 @@
                                       </li>
                                   </ul>
                                   <div class="card-image">
-                                  {{ with .Params.regionid }}
+                                  {{ with .Params.trailforks }}
                                       <!-- TRAILFORKS WIDGET START -->
-                                      <div class="TrailforksWidgetMap" data-w="100%" data-h="200vh" data-rid="{{ . }}" data-maptype="trailforks" data-trailstyle="difficulty" data-controls="0" data-list="0" data-dml="1" data-layers="labels,region" data-z="" data-lat="" data-lon="" data-hideunsanctioned="0"></div>
+                                      <div class="TrailforksWidgetMap" data-w="100%" data-h="200vh" data-rid="{{ .regionid }}" data-maptype="trailforks" data-trailstyle="difficulty" data-controls="0" data-list="0" data-dml="1" data-layers="labels,region,poi" data-z="{{ .z | default "" }}" data-lat="{{ .lat | default "" }}" data-lon="{{ .lon | default "" }}" data-hideunsanctioned="0"></div>
                                       <a href="https://www.trailforks.com/">Trailforks.com</a>
 
                                       <script type="text/javascript">

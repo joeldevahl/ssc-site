@@ -9,10 +9,11 @@
   <div class="col-md-12 ml-auto mr-auto text-left">
     {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
-    {{ with .Params.regionid }}
+    {{ with .Params.trailforks }}
+      {{ if isset . "regionid" }}
       <div class="trailforks-widget-wrapper">
         <!-- TRAILFORKS WIDGET START -->
-        <div class="TrailforksWidgetMap" data-w="100%" data-h="500vh" data-rid="{{ . }}" data-maptype="trailforks" data-trailstyle="difficulty" data-controls="0" data-list="0" data-dml="1" data-layers="labels,region" data-z="" data-lat="" data-lon="" data-hideunsanctioned="0"></div>
+        <div class="TrailforksWidgetMap" data-w="100%" data-h="500vh" data-rid="{{ .regionid }}" data-maptype="trailforks" data-trailstyle="difficulty" data-controls="0" data-list="0" data-dml="1" data-layers="labels,region,poi" data-z="{{ .Params.trailforks.z | default "" }}" data-lat="{{ .Params.trailforks.lat | default "" }}" data-lon="{{ .Params.tailforks.lon | default "" }}" data-hideunsanctioned="0"></div>
         <a href="https://www.trailforks.com/">Trailforks.com</a>
 
         <script type="text/javascript">
@@ -20,11 +21,11 @@
         </script>
         <!-- TRAILFORKS WIDGET END -->
       </div>
-    {{ end }}
-    {{ with .Params.routeid }}
+      {{ end }}
+      {{ if isset . "routeid" }}
       <div class="trailforks-widget-wrapper">
         <!-- TRAILFORKS WIDGET START -->
-        <div class="TrailforksWidgetRoute" data-w="100%" data-h="400vh" data-id="{{.}}" data-map="1" data-elevation="1" data-trails="1" data-details="1" data-section="0" data-units="metric"></div>
+        <div class="TrailforksWidgetRoute" data-w="100%" data-h="400vh" data-id="{{ .routeid }}" data-map="1" data-elevation="1" data-trails="1" data-details="1" data-section="0" data-units="metric"></div>
         <script type="application/javascript" src="https://es.pinkbike.org/326/sprt/j/trailforks/iframeResizer.min.js"></script>
         <script type="text/javascript">
           var script = document.createElement("script");
@@ -34,6 +35,7 @@
         </script>
         <!-- TRAILFORKS WIDGET END -->
       </div>
+      {{ end }}
     {{ end }}
     {{ with .Content }}
       <div class="article-style" itemprop="articleBody">{{ . }}</div>
