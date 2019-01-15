@@ -1,7 +1,7 @@
 ---
 title: "Om oss"
 description: "Det här är vi!"
-background: '/temppics/mtb1-1.jpg'
+background: '/temppics/Om_oss-BG.jpg'
 ---
 Sundsvalls stigcyklister är en organisation som jobbar för att främja stigcykling i sundsvallsregionen.
 

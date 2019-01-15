@@ -1,7 +1,7 @@
 ---
 title: "Medlemskap"
 description: "Så här blir du medlem i Sundsvalls Stigcyklister"
-background: '/temppics/mtb_header2.jpg'
+background: '/temppics/Medlem-BG.jpg'
 ---
 ### Ju fler desto bättre
 Du kan bidra till sundsvalls stigcykling på flera olika sätt.<br/>

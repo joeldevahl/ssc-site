@@ -1,6 +1,6 @@
 ---
 title: "Sundsvalls Stigcyklister"
-background: '/temppics/test4-930x602.jpg'
+background: '/temppics/Index-BG.jpg'
 description: "Stigbygge, Ändörå och blandat"
 headerstyle: "page-header-big"
 ---

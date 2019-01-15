@@ -1,7 +1,7 @@
 ---
 title: "Cykla"
 description: "Cykla i Sundsvall med omnejd"
-background: '/temppics/test4-930x602.jpg'
+background: '/temppics/Cykla-BG-2.jpg'
 ---
 Sundsvall är sedan gammalt en diger friluftskommun och har ett stort stignät i en kuperad terräng med många fina berg som
 reser sig runt staden.
