@@ -13,21 +13,21 @@
             </div>
             {{ block "title" . }}
               {{ if .IsHome }}
-                <div class="container">
+                <!--<div class="container">
                   <div class="content-center logo">
                     <img src="/images/logo_v1_text_under_white.png"/>
                   </div>
-                </div>
+                </div>-->
               {{ end }}
             {{ end }}
         </div>
         <div class="{{ .Params.section | default "section" }}">
             <div class="container">
-            {{ block "body" . }}
-	          {{ end }}
-
+              {{ block "body" . }}
+              {{ end }}
             </div>
         </div>
+        {{ "<!-- here -->" | safeHTML }}
     </div>
     {{ partial "javascript" . }}
   </body>

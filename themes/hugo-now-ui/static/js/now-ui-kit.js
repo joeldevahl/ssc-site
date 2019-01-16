@@ -17,8 +17,6 @@
  */
 
 var transparent = true;
-
-var transparentDemo = true;
 var fixedTop = false;
 
 var navbar_initialized,
@@ -94,8 +92,6 @@ $(document).ready(function () {
             $('.datepicker').removeClass('open');
         });
     });
-
-
 });
 
 $(window).on('resize', function () {
@@ -131,27 +127,28 @@ $(document).on('click', '.navbar-toggler', function () {
     }
 });
 
+const navbar = $('.navbar');
+
 nowuiKit = {
     misc: {
         navbar_menu_visible: 0
     },
 
     checkScrollForTransparentNavbar: debounce(function () {
-        console.log(`scrollTop: $(document).scrollTop()`);
-        console.log(`scroll_distance = ${scroll_distance}`);
-
         if ($(document).scrollTop() > scroll_distance) {
             if (transparent) {
                 transparent = false;
-                $('.navbar').removeClass('navbar-transparent');
+                navbar.removeClass('navbar-transparent');
+                navbar.addClass('bg-primary');
             }
         } else {
             if (!transparent) {
                 transparent = true;
-                $('.navbar').addClass('navbar-transparent');
+                navbar.addClass('navbar-transparent');
+                navbar.removeClass('bg-primary');
             }
         }
-    }, 17),
+    }, 10),
 
     initNavbarImage: function () {
         var $navbar = $('.navbar').find('.navbar-translate').siblings('.navbar-collapse');
@@ -210,10 +207,10 @@ nowuiKitDemo = {
     checkScrollForParallax: debounce(function () {
         const oVal = ($(window).scrollTop() / 3);
         big_image.css({
-            'transform': `translate3d(0,${oVal}px,0)`,
-            '-webkit-transform': `translate3d(0,${oVal}px,0)`,
-            '-ms-transform': `translate3d(0,${oVal}px,0)`,
-            '-o-transform': `translate3d(0,${oVal}px,0)`
+            'transform': 'translate3d(0,'+ oVal +'px,0)',
+            '-webkit-transform': 'translate3d(0,' + oVal + 'px,0)',
+            '-ms-transform': 'translate3d(0,' + oVal + 'px,0)',
+            '-o-transform': 'translate3d(0,' + oVal + 'px,0)'
         });
     }, 6)
 }

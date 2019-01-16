@@ -1,4 +1,4 @@
-baseURL = "http://sundsvallsstigcyklister.se/"
+baseURL = "https://www.sundsvallsstigcyklister.se"
 languageCode = "sv-SE"
 title = "Sundsvalls Stigcyklister"
 theme = "hugo-now-ui"
@@ -24,12 +24,6 @@ enableRobotsTXT = true
   custom_js = []
   date_format = "Mon, Jan 2, 2006"
   description = "Sundsvalls Stigcyklister"
-
-  # options for highlight.js (version, additional languages, and theme)
-  highlightjsVersion = "9.10.0"
-  highlightCDN = "//cdn.bootcss.com"
-  highlightjsLang = ["r", "yaml"]
-  highlightjsTheme = "github"
 
 [menu]
 

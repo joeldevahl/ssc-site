@@ -15,7 +15,7 @@
     <!-- CSS Files -->
     <link href="{{ "css/bootstrap.min.css" | relURL }}" rel="stylesheet" />
     {{ $styles := resources.Get "sass/now-ui-kit.scss" | toCSS | minify | fingerprint }}
-    <link href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen" rel="stylesheet" />
+    <link href="{{ $styles.Permalink }}" media="screen" rel="stylesheet" />
     <link href="{{ "css/demo.css" | relURL }}" rel="stylesheet" />
     
   {{ range .Site.Params.custom_css -}}
