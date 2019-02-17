@@ -27,7 +27,7 @@ Den kuperade skogen mellan Bydalen och Huli erbjuder både släta snabba XC-stig
 {{< area id="7382" >}}
 
 På Kliss utmanas AM-cyklisten rejält i tekniska klättringar och roliga utförslöpor. Cykla upp via snöstickan från parkeringen vid slutet av klissvägen, ta några vändor på “Kliss till grusväg” och “Klisstoppen till snöstickan” för att sedan ta det långa tekniska spåret via orrberget ner mot grodtjärn.
-Vid Katrinehill finns fina utförslöpor i “Full fräs” och “Snabb som en kula”, och via en småteknisk travers nås den långa “Slippery when wet 2” (dumt namn, döpa om stigen på TF? -ja/PL). Bilar kan parkeras på klissvägens vändplan eller vid en av parkeringarna runt sidsjöns friluftsområde.
+Vid Katrinehill finns fina utförslöpor i “Full fräs” och “Snabb som en kula”, och via en småteknisk travers nås den långa “Slippery when wet Nacksta”. Bilar kan parkeras på klissvägens vändplan eller vid en av parkeringarna runt sidsjöns friluftsområde.
 
 # Södra Berget
 
@@ -35,7 +35,7 @@ Vid Katrinehill finns fina utförslöpor i “Full fräs” och “Snabb som en 
 
 På södra bergets topp finner XC-cyklisten både slätare motionsspår och trixigare singletracks. Vid bergets fot mot staden till finns Sundsvallscyklisternas arena, skyltat “MTB-banor” från vägen upp till hotellet.
 AM-cyklisten finner roliga utmaningar i alla vädersträck. Vi vill dock slå ett extra slag för klassikerna Jons superspår (del 1 och 2) samt Flaggstigen.
-Parkeringen vid Ängen fungerar utmärkt som utgångspunkt för dig som vill ta en längre tur mot klissberget eller söderut över fågelberget.
+Parkeringen vid Ängen eller LV5 är bra utgångspunkter för kortare turer, men även parkeringarna vid Sidsjön fungerar utmärkt som utgångspunkt för dig som vill ta en längre tur mot klissberget eller söderut över fågelberget.
 
 
 # Bergsåker
