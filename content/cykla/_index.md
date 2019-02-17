@@ -40,5 +40,9 @@ Parkeringen vid Ängen fungerar utmärkt som utgångspunkt för dig som vill ta 
 
 # Bergsåker
 
+{{< area id="25266" >}}
+
 # Essvik
+
+{{< area id="25604" >}}
 
