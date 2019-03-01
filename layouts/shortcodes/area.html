@@ -1,1 +1,21 @@
-<iframe width="800" height="400" frameborder="0" allowfullscreen {{ with .Get "id" }}src="https://www.trailforks.com/widgets/region_map/?rid={{.}}&w=800px&h=400px&maptype=trailforks&trailstyle=difficulty&controls=0&list=0&layers=labels,region&z=&lat=&lon=&hideunsanctioned=0"{{ end }}></iframe> <br />
+<div class="trailforks-wrapper">
+    <!-- TRAILFORKS WIDGET START -->
+    <div class="TrailforksWidgetMap"
+        data-w="100%"
+        data-h="400vh"
+        data-rid="{{ .Get "id" }}"
+        data-maptype="trailforks"
+        data-trailstyle="difficulty"
+        data-controls="0"
+        data-list="0"
+        data-dml="1"
+        data-layers="labels,region,poi"
+        data-z="{{  .Get "z" | default "" }}"
+        data-lat="{{ .Get "lat" | default "" }}"
+        data-lon="{{ .Get "lon" | default "" }}"
+        data-hideunsanctioned="0"
+    >
+    </div>
+    <a href="https://www.trailforks.com/">Trailforks.com</a>
+    <!-- TRAILFORKS WIDGET END -->
+</div>
