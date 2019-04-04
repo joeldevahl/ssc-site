@@ -40,7 +40,13 @@ $(document).ready(function () {
 
     $navbar = $('.navbar');
     $banner = $('.page-header-image');
-    scroll_distance = ($banner.outerHeight(true) - $navbar.outerHeight(true)); // + 20;
+    scroll_distance = $banner.outerHeight(false) - $navbar.outerHeight(false);
+
+    var div_logo = $('div.logo');
+
+    if (div_logo.length) {
+        scroll_distance = (scroll_distance / 2) - (div_logo.height() / 2);
+    }
 
     // Check if we have the class "navbar-color-on-scroll" then add the function to remove the class "navbar-transparent" so it will transform to a plain color.
     nowuiKit.checkScrollForTransparentNavbar();
@@ -205,7 +211,7 @@ var big_image;
 // Javascript just for Demo purpose, remove it from your project
 nowuiKitDemo = {
     checkScrollForParallax: debounce(function () {
-        const oVal = ($(window).scrollTop() / 3);
+        const oVal = ($(window).scrollTop() / 2);
         big_image.css({
             'transform': 'translate3d(0,'+ oVal +'px,0)',
             '-webkit-transform': 'translate3d(0,' + oVal + 'px,0)',
