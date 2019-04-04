@@ -78,3 +78,54 @@ q {
 h2 {
     font-size: 2em;
 }
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 800px;
+    }
+
+    nav {
+        .container {
+            max-width: 970px;
+        }
+    }
+}
+
+@media (min-width: 500px) {
+    img.logo {
+        width: 300px;
+        min-width: 300px;
+        height: 69px;
+        background-image: url(/images/ssc-banner-logo.png);
+    }
+}
+
+@media (max-width: 499px) {
+    img.logo {
+        width: 52px;
+        min-width: 52px;
+        height: 69px;
+        background-image: url(/images/ssc-banner-logo-no-text.png);
+    }
+}
+
+.logo {
+    h2 {
+        font-size: 1.0em;
+        margin: -3px;
+        font-style: italic;
+    }
+
+    .fa.fa-reply.point-up {
+        transform: rotate(90deg);
+    }
+
+    .fa.fa-reply.point-down {
+        transform: rotate(-90deg);
+    }
+
+    .fa.transparent {
+        opacity: 0.8;
+        filter: alpha(opacity=90);
+    }
+}

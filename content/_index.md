@@ -1,5 +1,6 @@
 ---
-title: "Sundsvalls Stigcyklister"
+title: "Välkommen ut!"
+subtitle: "(Scrolla ner för mer. Eller tryck på något i menyn)"
 background: '/images/banners/Index-BG.jpg'
 description: "Stigbygge, Ändörå och blandat"
 headerstyle: "page-header-big"

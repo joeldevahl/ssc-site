@@ -40,7 +40,7 @@ $(document).ready(function () {
 
     $navbar = $('.navbar');
     $banner = $('.page-header-image');
-    scroll_distance = $banner.outerHeight(true) - $navbar.outerHeight(true);
+    scroll_distance = ($banner.outerHeight(true) - $navbar.outerHeight(true)); // + 20;
 
     // Check if we have the class "navbar-color-on-scroll" then add the function to remove the class "navbar-transparent" so it will transform to a plain color.
     nowuiKit.checkScrollForTransparentNavbar();
@@ -135,7 +135,7 @@ nowuiKit = {
     },
 
     checkScrollForTransparentNavbar: debounce(function () {
-        if ($(document).scrollTop() > scroll_distance) {
+        if ($(document).scrollTop() >= scroll_distance) {
             if (transparent) {
                 transparent = false;
                 navbar.removeClass('navbar-transparent');

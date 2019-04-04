@@ -15,7 +15,10 @@
               {{ if .IsHome }}
                 <div class="container">
                   <div class="content-center logo">
-                    <img src="/images/ValkommenUt.png"/>
+                    <h1>{{ .Title }}</h1>
+                    <h2 class="transparent"><i class="fa fa-reply point-down"></i>
+                    {{ .Params.subtitle }}
+                    <i class="fa fa-reply point-up"></i></h2>
                   </div>
                 </div>
               {{ end }}
