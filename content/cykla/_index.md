@@ -56,11 +56,12 @@ Här finns bland annat endurogodingar som Fear is the weakness och Narrow grave.
 
 ## Essvik
 
+{{< figure src="/images/maps/map-essvik.png" >}}
+
 15 minuter söder om stan ligger halvön som lockar till sig friluftare i alla dess former. Essvik erbjuder många långa stigar, den ena finare än den andra.
 Naturen är variationsrik men stigarnas svårighetsgrad är ovanligt jämn (för att vara i Sundsvall).
 Här finner XC cyklisten skönt flyt med lättare tekniska inslag, utan att det för den sakens skull bli
 tråkigt för de mer tekniska cyklisterna. Många utförslöpor bjuder på god fart med naturliga möjligheter
 för hopp och lek - det är alltså inga problem att låta adrenalinet öka i takt med pulsen.
 
-{{< figure src="/images/maps/map-essvik.png" >}}
 
