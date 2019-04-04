@@ -18,7 +18,7 @@ de du möter har samma rätt till att vistas där som du har. Vid möte sakta in
 gör dig varse och få kontakt med ägaren innan du passerar. Sist men inte minst; använd hjälm och om du ska cykla själv berätta för
 någon att du ska ut.
 
-## Bydalen/Huli
+## Bydalen
 
 {{< figure src="/images/maps/map-bydalen.png" >}}
 
@@ -47,7 +47,20 @@ vid Sidsjön fungerar utmärkt som utgångspunkt för dig som vill ta en längre
 
 {{< figure src="/images/maps/map-bergsaker.png" >}}
 
+I stadens västra utkant huserar Hällomsberget. Stignätet slingrar sig upp och ner för berget och dess granne Uvbärget - det är med andra ord alltså upplagt
+för både fartfest och blodsmak. Cykla en XC-tur i kvällssolen förbi klippstugan och uvberget “Utsikt över Huli”. Både stigarna eller naturupplevelsen är av
+finsmakarkvalite.
+Om tekniska utmaningar är din kopp med te så kommer Hällomsbergets sydsida smaka riktigt gott.
+Här finns bland annat endurogodingar som Fear is the weakness och Narrow grave.
+
+
 ## Essvik
+
+15 minuter söder om stan ligger halvön som lockar till sig friluftare i alla dess former. Essvik erbjuder många långa stigar, den ena finare än den andra.
+Naturen är variationsrik men stigarnas svårighetsgrad är ovanligt jämn (för att vara i Sundsvall).
+Här finner XC cyklisten skönt flyt med lättare tekniska inslag, utan att det för den sakens skull bli
+tråkigt för de mer tekniska cyklisterna. Många utförslöpor bjuder på god fart med naturliga möjligheter
+för hopp och lek - det är alltså inga problem att låta adrenalinet öka i takt med pulsen.
 
 {{< figure src="/images/maps/map-essvik.png" >}}
 
