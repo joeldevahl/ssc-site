@@ -20,32 +20,38 @@ någon att du ska ut.
 
 ## Bydalen
 
-{{< figure src="/images/maps/map-bydalen.png" >}}
+{{< figure src="/images/maps/map-bydalen.png" link="https://www.trailforks.com/region/bydalen-25355/" >}}
 
 Den kuperade skogen mellan Bydalen och Huli erbjuder både släta snabba XC-stigar med mjölksyregaranti och studsiga lekfulla utförslöpor
 som endurofolket prisar. Parkera vid åkerigrus infart eller bydalens spårcentral för att sedan lappa ihop en go tur.
 
+[Klicka här för att komma till Bydalen på TrailForks](https://www.trailforks.com/region/bydalen-25355/)
+
 ## Kliss
 
-{{< figure src="/images/maps/map-kliss.png" >}}
+{{< figure src="/images/maps/map-kliss.png"  link="https://www.trailforks.com/region/klissberget" >}}
 
 På Kliss utmanas AM-cyklisten rejält i tekniska klättringar och roliga utförslöpor. Cykla upp via snöstickan från parkeringen vid slutet av
 klissvägen, ta några vändor på “Kliss till grusväg” och “Klisstoppen till snöstickan” för att sedan ta det långa tekniska spåret via orrberget ner
 mot grodtjärn. Vid Katrinehill finns fina utförslöpor i “Full fräs” och “Snabb som en kula”, och via en småteknisk travers nås den långa
 “Slippery when wet Nacksta”. Bilar kan parkeras på klissvägens vändplan eller vid en av parkeringarna runt sidsjöns friluftsområde.
 
+[Klicka här för att komma till Kliss på TrailForks](https://www.trailforks.com/region/klissberget/)
+
 ## Södra Berget
 
-{{< figure src="/images/maps/map-sodra.png" >}}
+{{< figure src="/images/maps/map-sodra.png"  link="https://www.trailforks.com/region/sodra-berget-25316/" >}}
 
 På södra bergets topp finner XC-cyklisten både slätare motionsspår och trixigare singletracks. Vid bergets fot mot staden till finns Sundsvallscyklisternas
 arena, skyltat “MTB-banor” från vägen upp till hotellet. AM-cyklisten finner roliga utmaningar i alla vädersträck. Vi vill dock slå ett extra slag för
 klassikerna Jons superspår (del 1 och 2) samt Flaggstigen. Parkeringen vid Ängen eller LV5 är bra utgångspunkter för kortare turer, men även parkeringarna
 vid Sidsjön fungerar utmärkt som utgångspunkt för dig som vill ta en längre tur mot klissberget eller söderut över fågelberget.
 
+[Klicka här för att komma till Södra Berget på TrailForks](https://www.trailforks.com/region/sodra-berget-25316/)
+
 ## Bergsåker
 
-{{< figure src="/images/maps/map-bergsaker.png" >}}
+{{< figure src="/images/maps/map-bergsaker.png"  link="https://www.trailforks.com/region/bergsaker-25266/" >}}
 
 I stadens västra utkant huserar Hällomsberget. Stignätet slingrar sig upp och ner för berget och dess granne Uvbärget - det är med andra ord alltså upplagt
 för både fartfest och blodsmak. Cykla en XC-tur i kvällssolen förbi klippstugan och uvberget “Utsikt över Huli”. Både stigarna eller naturupplevelsen är av
@@ -53,15 +59,19 @@ finsmakarkvalite.
 Om tekniska utmaningar är din kopp med te så kommer Hällomsbergets sydsida smaka riktigt gott.
 Här finns bland annat endurogodingar som Fear is the weakness och Narrow grave.
 
+[Klicka här för att komma till Bergsåker på TrailForks](https://www.trailforks.com/region/bergsaker-25266/)
+
 
 ## Essvik
 
-{{< figure src="/images/maps/map-essvik.png" >}}
+{{< figure src="/images/maps/map-essvik.png"  link="https://www.trailforks.com/region/essvik-25604/" >}}
 
 15 minuter söder om stan ligger halvön som lockar till sig friluftare i alla dess former. Essvik erbjuder många långa stigar, den ena finare än den andra.
 Naturen är variationsrik men stigarnas svårighetsgrad är ovanligt jämn (för att vara i Sundsvall).
 Här finner XC cyklisten skönt flyt med lättare tekniska inslag, utan att det för den sakens skull bli
 tråkigt för de mer tekniska cyklisterna. Många utförslöpor bjuder på god fart med naturliga möjligheter
 för hopp och lek - det är alltså inga problem att låta adrenalinet öka i takt med pulsen.
+
+[Klicka här för att komma till Essvik på TrailForks](https://www.trailforks.com/region/essvik-25604/)
 
 
