@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
     <!-- CSS Files -->
     <link href="{{ "css/bootstrap.min.css" | relURL }}" rel="stylesheet" />
-    {{ $styles := resources.Get "sass/now-ui-kit.scss" | toCSS | minify | fingerprint }}
+    {{ $styles := resources.Get "sass/now-ui-kit.scss" | toCSS | fingerprint }}
     <link href="{{ $styles.Permalink }}" media="screen" rel="stylesheet" />
     <link href="{{ "css/demo.css" | relURL }}" rel="stylesheet" />
     
