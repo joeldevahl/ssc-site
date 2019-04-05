@@ -45,7 +45,7 @@ $(document).ready(function () {
     var div_logo = $('div.logo');
 
     if (div_logo.length) {
-        scroll_distance = (scroll_distance / 2) - (div_logo.height() / 2);
+        scroll_distance = (scroll_distance / 2) - div_logo.height();
     }
 
     // Check if we have the class "navbar-color-on-scroll" then add the function to remove the class "navbar-transparent" so it will transform to a plain color.
@@ -70,11 +70,9 @@ $(document).ready(function () {
         });
     });
 
-    if ($(window).width() >= 992) {
-        big_image = $('.page-header-image[data-parallax="true"]');
+    big_image = $('.page-header-image[data-parallax="true"]');
 
-        $(window).on('scroll', nowuiKitDemo.checkScrollForParallax);
-    }
+    $(window).on('scroll', nowuiKitDemo.checkScrollForParallax);
 
     // Activate Carousel
     $('.carousel').carousel({
