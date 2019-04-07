@@ -136,16 +136,11 @@ p {
         font-style: italic;
     }
 
-    .fa.fa-reply.point-up {
+    .fas.fa-reply.point-up {
         transform: rotate(90deg);
     }
 
-    .fa.fa-reply.point-down {
+    .fas.fa-reply.point-down {
         transform: rotate(-90deg);
-    }
-
-    .fa.transparent {
-        opacity: 0.8;
-        filter: alpha(opacity=90);
     }
 }
