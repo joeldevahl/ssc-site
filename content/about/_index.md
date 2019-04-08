@@ -3,9 +3,9 @@ title: "Om oss"
 description: "Det här är vi!"
 background: '/images/banners/Om_oss-BG4.jpg'
 ---
-Sundsvalls stigcyklister är en organisation som jobbar för att främja stigcykling i sundsvallsregionen.
+Sundsvalls stigcyklister är en organisation som jobbar för att främja stigcykling i Sundsvallsregionen.
 
-Vår tolkning av att främja är att sammanföra sundsvalls stigcyklister och tillsammans upptäcka, synliggöra och förbättra vårt stignät.
+Vår tolkning av att främja är att sammanföra Sundsvalls stigcyklister och tillsammans upptäcka, synliggöra och förbättra vårt stignät.
 Förutom att cykla har vi en förtjusning för att välta stenar och skyffla jord. Stigbygge kan vara lika kreativt som att cykla i en
 skatepark och minst lika fysiskt som ett crossfit-pass. Också är det så klart galet roligt att få skörda frukten och cykla de stigar
 man själv varit med och skapat.
@@ -15,7 +15,7 @@ Kolla in våran <a href="https://www.facebook.com/groups/623066914391828/" targe
 där finner du diskussioner, evenemang och likasinnade.
 
 Föreningen har sitt ursprung i facebookgruppen som startades sommaren 2013.
-Behovet av en förening kommer ur önskemål att kunna samarbeta med både Sundsvalls kommun och andra aktörer,
+Behovet av en förening kommer ur önskemål att kunna samarbeta med både Sundsvalls Kommun och andra aktörer,
 både i närings- och föreningslivet. Vi sammanför Sundsvalls traditionellt oorganiserade stigcyklister och
 gör vår röst hörd. Att vara med i föreningen är inget krav för att gå med i
 <a href="https://www.facebook.com/groups/623066914391828/" target="_blank">facebookgruppen</a>

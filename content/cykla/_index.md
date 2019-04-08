@@ -16,7 +16,7 @@ länkas samman. Trailforks kartor nås via webbläsaren eller deras app.
 En enkel filosofi som fungerar lika bra på krogen som i skogen. Tänk på att stor del av marken du rör dig på är privatägd och att
 de du möter har samma rätt till att vistas där som du har. Vid möte sakta in, hejja och var trevlig. Möter du hundar eller hästar,
 gör dig varse och få kontakt med ägaren innan du passerar. Sist men inte minst; använd hjälm och om du ska cykla själv berätta för
-någon att du ska ut.
+någon att du ska ut. Deltar du i en av föreningen annordnad cykeltur är det krav på hjälm.
 
 ## Bydalen
 
@@ -32,9 +32,9 @@ som endurofolket prisar. Parkera vid åkerigrus infart eller bydalens spårcentr
 {{< figure src="/images/maps/map-kliss.png" target="_blank" link="https://www.trailforks.com/region/klissberget" >}}
 
 På Kliss utmanas AM-cyklisten rejält i tekniska klättringar och roliga utförslöpor. Cykla upp via snöstickan från parkeringen vid slutet av
-klissvägen, ta några vändor på “Kliss till grusväg” och “Klisstoppen till snöstickan” för att sedan ta det långa tekniska spåret via orrberget ner
+klissvägen, ta några vändor på “Kliss till grusväg” och “Klisstoppen till snöstickan” för att sedan ta det långa tekniska spåret via Orrberget ner
 mot grodtjärn. Vid Katrinehill finns fina utförslöpor i “Full fräs” och “Snabb som en kula”, och via en småteknisk travers nås den långa
-“Slippery when wet Nacksta”. Bilar kan parkeras på klissvägens vändplan eller vid en av parkeringarna runt sidsjöns friluftsområde.
+“Slippery when wet Nacksta”. Bilar kan parkeras på klissvägens vändplan eller vid en av parkeringarna runt Sidsjöns friluftsområde.
 
 <a href="https://www.trailforks.com/region/klissberget/" target="_blank">Klicka här för att komma till Kliss på Trailforks.com</a>
 
@@ -42,10 +42,10 @@ mot grodtjärn. Vid Katrinehill finns fina utförslöpor i “Full fräs” och 
 
 {{< figure src="/images/maps/map-sodra.png"  target="_blank" link="https://www.trailforks.com/region/sodra-berget-25316/" >}}
 
-På södra bergets topp finner XC-cyklisten både slätare motionsspår och trixigare singletracks. Vid bergets fot mot staden till finns Sundsvallscyklisternas
+På Södra Bergets topp finner XC-cyklisten både slätare motionsspår och trixigare singletracks. Vid bergets fot mot staden till finns Sundsvallscyklisternas
 arena, skyltat “MTB-banor” från vägen upp till hotellet. AM-cyklisten finner roliga utmaningar i alla vädersträck. Vi vill dock slå ett extra slag för
-klassikerna Jons superspår (del 1 och 2) samt Flaggstigen. Parkeringen vid Ängen eller LV5 är bra utgångspunkter för kortare turer, men även parkeringarna
-vid Sidsjön fungerar utmärkt som utgångspunkt för dig som vill ta en längre tur mot klissberget eller söderut över fågelberget.
+klassikerna "Jons superspår" (del 1 och 2) samt "Flaggstigen". Parkeringen vid Ängen eller LV5 är bra utgångspunkter för kortare turer, men även parkeringarna
+vid Sidsjön fungerar utmärkt som utgångspunkt för dig som vill ta en längre tur mot Klissberget eller söderut över Fågelberget.
 
 <a href="https://www.trailforks.com/region/sodra-berget-25316/" target="_blank">Klicka här för att komma till Södra Berget på Trailforks.com</a>
 
@@ -54,10 +54,10 @@ vid Sidsjön fungerar utmärkt som utgångspunkt för dig som vill ta en längre
 {{< figure src="/images/maps/map-bergsaker.png"  target="_blank" link="https://www.trailforks.com/region/bergsaker-25266/" >}}
 
 I stadens västra utkant huserar Hällomsberget. Stignätet slingrar sig upp och ner för berget och dess granne Uvbärget - det är med andra ord alltså upplagt
-för både fartfest och blodsmak. Cykla en XC-tur i kvällssolen förbi klippstugan och uvberget “Utsikt över Huli”. Både stigarna eller naturupplevelsen är av
+för både fartfest och blodsmak. Cykla en XC-tur i kvällssolen förbi Klippstugan och Uvberget “Utsikt över Huli”. Både stigarna eller naturupplevelsen är av
 finsmakarkvalite.
 Om tekniska utmaningar är din kopp med te så kommer Hällomsbergets sydsida smaka riktigt gott.
-Här finns bland annat endurogodingar som Fear is the weakness och Narrow grave.
+Här finns bland annat endurogodingar som "Fear is the weakness" och "Narrow grave".
 
 <a href="https://www.trailforks.com/region/bergsaker-25266/" target="_blank">Klicka här för att komma till Bergsåker på Trailforks.com</a>
 

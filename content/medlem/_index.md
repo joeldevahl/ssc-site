@@ -5,7 +5,7 @@ background: '/images/banners/Medlem-BG.jpg'
 ---
 <q>Ju fler desto bättre</q>
 
-Du kan bidra till sundsvalls stigcykling på flera olika sätt. Vi vill att du kör på det som passar för dig bäst.
+Du kan bidra till Sundsvalls stigcykling på flera olika sätt. Vi vill att du kör på det som passar för dig bäst.
 
 Vad vill du hitta på? Vi är öppna för förslag och ser gärna att våra medcyklister tar initiativ som främjar stigcykling och sprider glädje.
 Skriv av dig på <a href="https://www.facebook.com/groups/623066914391828/" target="_blank">facebook</a> eller kontakta styrelsen direkt via <a href="mailto:info@sundsvallsstigcyklister.se">info@sundsvallsstigcyklister.se</a>.
