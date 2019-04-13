@@ -41,7 +41,7 @@ På södra bergets topp finner XC-cyklisten både slätare motionsspår och trix
 
 {{< figure src="/images/maps/map-bergsaker.png"  target="_blank" link="https://www.trailforks.com/region/bergsaker-25266/" >}}
 
-I stadens västra utkant huserar Hällomsberget. Stignätet slingrar sig upp och ner för berget och dess granne Uvberget - det är med andra ord alltså upplagt för både fartfest och blodsmak. Cykla en XC-tur i kvällssolen förbi Klippstugan och Uvberget “Utsikt över Huli”. Både stigarna eller naturupplevelsen är av finsmakarkvalite. Om tekniska utmaningar är din kopp med te så kommer Hällomsbergets sydsida smaka riktigt gott. Här finns bland annat endurogodingar som ”Fear is the weakness” och ”Narrow grave”.
+I stadens västra utkant huserar Hällomsberget. Stignätet slingrar sig upp och ner för berget och dess granne Uvberget - det är med andra ord upplagt för både fartfest och blodsmak. En tur i kvällssolen förbi Klippstugan och Uvberget “Utsikt över Huli” erbjuder både stigar och en naturupplevelse av finsmakarkvalite. Om tekniska utförslöpor är din kopp med te så kommer Hällomsbergets sydsida smaka riktigt gott. Här finns bland annat endurogodingar som ”Fear is the weakness” och ”Narrow grave”, två av Sundsvalls i särklass tuffaste utförslöpor.
 
 <a href="https://www.trailforks.com/region/bergsaker-25266/" target="_blank">Klicka här för att komma till Bergsåker på Trailforks.com</a>
 
