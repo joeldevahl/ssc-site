@@ -6,7 +6,7 @@ background: '/images/banners/Cykla-BG-2.jpg'
 
 Sundsvall är sedan gammalt en diger friluftskommun och har ett stort stignät i kuperad terräng med många fina berg som reser sig runt staden. Hatten av till våra orienterande, skidande, ridande och svampplockande vänner för den fina grund de lagt. Våra skogar erbjuder miltals med sammanhängande stigar och natursköna upplevelser. För att den mänskliga hjärnan ska kunna greppa all denna stig-awesomeness har vi delat upp det och presenterar flera områden.
 
-I Sundsvall använder vi Trailforks som verktyg för att visa varandra var gobitarna finns, vilken svårighetsgrad de har och hur de länkas samman. Trailforks kartor nås via webbläsare eller appar för IOS och Android.
+I Sundsvall använder vi <a href="https://www.trailforks.com" target="_blank">Trailforks</a> som verktyg för att visa varandra var gobitarna finns, vilken svårighetsgrad de har och hur de länkas samman. Trailforks kartor nås via webbläsare eller <a href="https://www.trailforks.com/apps/map/" target="_blank">appar för iOS och Android</a>.
 
 <q>Gör mot andra som du själv vill bli behandlad</q>
 
